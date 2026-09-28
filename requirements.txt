@@ -1,0 +1,12 @@
+langchain-core==1.6.3
+langchain-text-splitters==1.1.2
+pypdf==6.19.0
+langchain-openai==1.6.2
+tiktoken==0.14.0
+python-dotenv==1.2.3
+langchain-classic==1.0.8
+langchain==1.4.2
+sqlalchemy==2.0.54
+langchain-pinecone==0.2.13
+langchain-community==0.4.2
+rank-bm25==0.2.2

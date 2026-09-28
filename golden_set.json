@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Qué biblioteca reemplazó a Hystrix en el ecosistema Spring?",
+    "documento_id_esperado": "resiliencia.md"
+  },
+  {
+    "pregunta": "¿Qué pasa si el mismo mensaje le llega dos veces a un consumidor?",
+    "documento_id_esperado": "comunicacion_asincrona.md"
+  },
+  {
+    "pregunta": "¿Qué cabecera HTTP propaga el contexto de una traza entre servicios?",
+    "documento_id_esperado": "observabilidad.pdf"
+  },
+  {
+    "pregunta": "¿Qué componente de Kubernetes agrega réplicas cuando sube el uso de CPU?",
+    "documento_id_esperado": "escalado.pdf"
+  },
+  {
+    "pregunta": "¿En qué se diferencia la sonda de liveness de la de readiness?",
+    "documento_id_esperado": "despliegue_springboot.md"
+  }
+]
